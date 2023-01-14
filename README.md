@@ -1,4 +1,4 @@
-# Player de Musica, este conteúdo faz parte do desafio Bora Codar.
+# Player de Música, este conteúdo faz parte do desafio Bora Codar.
 Aprendendo isso através da plataforma da Rocketseat!
 
 # 📷 Tela
