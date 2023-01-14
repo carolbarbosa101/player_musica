@@ -142,11 +142,11 @@ body * {
   border-radius: 9.60297px;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 670px) {
   #app{
     display: flex;
     flex-direction: column;
-    max-width: 70px;
+    max-width: 270px;
     margin: auto;
 
     height: auto;
