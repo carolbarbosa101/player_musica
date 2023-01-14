@@ -20,7 +20,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 # Pré-requisitos
 
-antes de começar, vocêw vai precisar ter instalado em sua máquina as seguintes ferramentas: [GIT](https://git-scm.com/)e o [VSCode](https://code.visualstudio.com/download).
+antes de começar, vocêw vai precisar ter instalado em sua máquina as seguintes ferramentas: [GIT](https://git-scm.com/) e o [VSCode](https://code.visualstudio.com/download).
 
 <h2> Rodando o Sistema Web </h2>
 $ git clone <https://github.com/carolbarbosa101/player_musica.git>
