@@ -34,7 +34,8 @@ Após isso você precisa abrir o Visual Studio Code e clicar em 'Open preview' e
  <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/44561610/138999783-42555e7c-6106-4794-ad5c-c5fb72d52583.JPG" width="100px;" alt="Caroline Barbosa"/> <br />
  <br />
  <sub><b>Caroline Barbosa</b></sub></a> <a href="https://www.instagram.com/carol_developer/" title="Carol"></a>
- <br />
+ <br /> 
+  <br />
 
 <div> 
 <a href="https://instagram.com/carol_developer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
