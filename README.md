@@ -1,7 +1,7 @@
 # Player de Musica, este conteúdo faz parte do desafio Bora Codar.
 Aprendendo isso através da plataforma da Rocketseat!
 
-# 📷 Telas
+# 📷 Tela
 
 <div align="center" >
   <img src="https://user-images.githubusercontent.com/44561610/212498904-25118fa0-dfad-49d5-b09c-6ef016536ae2.PNG"> 
