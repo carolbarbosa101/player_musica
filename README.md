@@ -36,7 +36,11 @@ Após isso você precisa abrir o Visual Studio Code e clicar em 'Open preview' e
  <sub><b>Caroline Barbosa</b></sub></a> <a href="https://www.instagram.com/carol_developer/" title="Carol"></a>
  <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Caroline-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolbarbosa/)](https://www.linkedin.com/in/carolbarbosa/) 
-[![Gmail Badge](https://img.shields.io/badge/-cmp.1a.caroline@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cmp.1a.caroline@gmail.com)](mailto:cmp.1a.caroline@gmail.com)
+<div> 
+<a href="https://instagram.com/carol_developer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href = "mailto:cmp.1a.caroline@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/carolbarbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
 
 ---
